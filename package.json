@@ -16,7 +16,7 @@
   "dependencies": {
     "algoliasearch": "latest",
     "algoliasearch-helper": "latest",
-    "angular": "1.4.7",
+    "angular": "1.8.3",
     "autocomplete.js": "^0.26.0",
     "babel-core": "^6.11.4",
     "babel-loader": "^6.2.4",
